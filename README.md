@@ -13,7 +13,6 @@
   <img src="https://profile-counter.glitch.me/vanessaaleung/count.svg" alt="Visitor Count" />
 </p>
 
-- 🎓 Fresh graduate at UC Davis
 - 💻 Data Science and Web Development enthusiast
 - 👯 Open to collaborating on interesting projects
 - 📫 Reach me at: vjcliang@ucdavis.edu
