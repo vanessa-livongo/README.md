@@ -10,7 +10,7 @@
 </p>
 
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/vanessaaleung/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/vanessa-livongo/count.svg" alt="Visitor Count" />
 </p>
 
 - 💻 Data Science and Web Development enthusiast
