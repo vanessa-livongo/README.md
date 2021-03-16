@@ -15,6 +15,6 @@
 
 - 💻 Data Science and Web Development enthusiast
 - 👯 Open to collaborating on interesting projects
-- 📫 Reach me at: vjcliang@ucdavis.edu
+- 📫 Reach me at: vanessa.liang@livongo.com
 - ✨ Check out my portfolio: https://vanessaaleung.github.io/
 - 📝 and my Medium blog: http://medium.com/@vanessaaleung
