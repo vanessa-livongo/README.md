@@ -13,7 +13,7 @@
   <img src="https://profile-counter.glitch.me/vanessa-livongo/count.svg" alt="Visitor Count" />
 </p>
 
-- 💻 Data Science and Web Development enthusiast
+- 💻 Data and web front end enthusiast
 - 👯 Open to collaborating on interesting projects
 - 📫 Reach me at: vanessa.liang@livongo.com
 - ✨ Check out my portfolio: https://vanessaaleung.github.io/
