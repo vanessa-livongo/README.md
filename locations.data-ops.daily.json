@@ -1,0 +1,15 @@
+{
+  "locations": [
+    {
+      "label": "TEST PDL",
+      "specs": [
+        "abc.json",
+        "def.json"
+      ],
+      "query": {
+        "prefix": "abc/data/TEST/",
+        "regex": "TEST.*"
+      }
+    }
+  ]
+}
