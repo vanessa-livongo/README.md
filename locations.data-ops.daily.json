@@ -7,7 +7,7 @@
         "def.json"
       ],
       "query": {
-        "prefix": "abc/data/TEST/",
+        "prefix": "abc/data/TEST_FOLDER_FOLDER/",
         "regex": "TEST.*"
       }
     }
